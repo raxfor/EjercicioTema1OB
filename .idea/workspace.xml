@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0687056-b7c2-4d07-a6d3-53c15d60a41e" name="Changes" comment="Ejercicio tema 2">
-      <change afterPath="$PROJECT_DIR$/src/com/tercertema/EjercicioTema3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cuartotema/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cuartotema/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cuartotema/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cuartotema/SmartWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EjercicioTema3">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EjercicioMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.primertema.EjercicioMain" />
       <module name="EjercicioTema1OB" />
@@ -75,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cuartotema.Main" />
+      <module name="EjercicioTema1OB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuartotema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.EjercicioTema3" />
         <item itemvalue="Application.EjercicioTema2" />
         <item itemvalue="Application.EjercicioMain" />
